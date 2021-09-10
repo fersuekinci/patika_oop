@@ -42,7 +42,7 @@
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
-![Havayolu drawio](https://user-images.githubusercontent.com/88900722/132889419-110eadd1-0dfe-4348-82a6-c9b2166fa9c0.png)
+![HAVA drawio](https://user-images.githubusercontent.com/88900722/132890385-52cb17b9-d5ef-4cae-a553-43b64e3bd33b.png)
 
 
 
