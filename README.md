@@ -41,3 +41,18 @@
 * Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
+![Havayolu drawio](https://user-images.githubusercontent.com/88900722/132889419-110eadd1-0dfe-4348-82a6-c9b2166fa9c0.png)
+
+
+
+**********
+
+**ÖDEV4 - ONLİNE FİLM SİTESİ**
+* Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+* Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+* Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+* Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+* Normal kullanıcılar ve aboneler film satın alabilirler.
+* Eğer film mevcut değil ise talep edilebilir.
+
